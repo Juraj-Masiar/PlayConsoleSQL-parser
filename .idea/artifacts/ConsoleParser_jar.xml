@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConsoleParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConsoleParser_jar</output-path>
+    <root id="archive" name="ConsoleParser.jar">
+      <element id="module-output" name="ConsoleParser" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-lang3-3.3.2/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-lang3-3.3.2/commons-lang3-3.3.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-collections4-4.0/commons-collections4-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-collections4-4.0/commons-collections4-4.0-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-collections4-4.0/commons-collections4-4.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-collections4-4.0/commons-collections4-4.0-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-collections4-4.0/commons-collections4-4.0-test-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
